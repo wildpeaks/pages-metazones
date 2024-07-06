@@ -1,2 +1,3 @@
-# pages-metazones
-Github Pages: metazones.com
+# Github Pages
+
+Example showing Github Pages works with custom domains and HTTPS.
